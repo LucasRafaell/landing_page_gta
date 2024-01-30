@@ -1,4 +1,4 @@
-
+![GTA_V](https://github.com/LucasRafaell/landing_page_gta/assets/99283985/49461759-aab9-44c5-a8c3-39109a237fb3)
 <p>Landing Page GTA V</p>
 <p>Nesta página é possivel selecionar entre as diversas alternativas de plataformas para compra do jogo.</p>
 
